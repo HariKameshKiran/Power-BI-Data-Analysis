@@ -1,2 +1,2 @@
 # Power-BI-Data-Analysis
-Data Analysis using Power BI 
+These are different Data Analysis projects done using using Power BI 
